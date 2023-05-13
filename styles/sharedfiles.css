@@ -1,0 +1,23 @@
+body{
+  background-color:  rgb(233, 195, 204); 
+  text-align: center;
+}
+h1{
+  font-family: 'fira sans' sans-serif;
+  color: rgb(150, 20, 200);
+}
+
+p{
+  font-weight: bold;
+  font-size: large;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(219, 107, 27);
+  font-style: italic;
+}
+
+a:hover{
+  text-decoration: underline;
+}
